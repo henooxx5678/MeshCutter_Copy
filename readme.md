@@ -6,6 +6,12 @@ Demo video: [https://youtu.be/L-vs-cgk-W4](https://youtu.be/L-vs-cgk-W4)
 
 These codes were written at Sep. 2019.
 
+## How To Use
+
+- Using the namespace `MeshCutting`.
+- Call the method `MeshCutter.CutFlat` for a flat blade cutting. (You can find that method in "MeshCutter.FlatBlade.cs")
+- Call the method `MeshCutter.CutCurved` for a curved blade cutting. (You can find that method in "MeshCutter.CurvedKnife")
+
 ---
 
 These codes were modified based on [Dustin Whirtle](https://github.com/BLINDED-AM-ME)\'s codes:
