@@ -5,6 +5,7 @@ Example scripts of meshing cutting. (including curved cutting)
 Demo video: [https://youtu.be/L-vs-cgk-W4](https://youtu.be/L-vs-cgk-W4)
 
 These codes were written at Sep. 2019.
+(Sorry for the messy code, my programming skills weren't very developed at that time)
 
 ## How To Use
 
